@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Maps/DefaultMap.umap",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_GameModeBase.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_HUD.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_HUDBase.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_StatsWidg.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_OnionInstance.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_ControllerBase.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Sprites/onion.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_Onion.uasset"
+			]
+		}
+	]
+}
