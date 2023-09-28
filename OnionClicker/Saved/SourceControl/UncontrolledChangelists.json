@@ -13,7 +13,10 @@
 				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_OnionInstance.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_ControllerBase.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Sprites/onion.uasset",
-				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_Onion.uasset"
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_Onion.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/Store/WBP_Store.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_OnionSaveGameObject.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Struct/Struct_KitchenSave.uasset"
 			]
 		}
 	]
