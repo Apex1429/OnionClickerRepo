@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/alexanderfernandez/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_OnionInstance.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_HUD.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_StatsWidg.uasset",
+				"/Users/alexanderfernandez/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/Store/WBP_StoreEntry.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Maps/DefaultMap.umap",
 				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Blueprints/BP_GameModeBase.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/OnionClickerRepo/OnionClicker/Content/Interface/BP_HUD.uasset",
